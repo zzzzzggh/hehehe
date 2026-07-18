@@ -1,5 +1,5 @@
 {
-  "status": "V0_LIVE_PENDING_TRAFFIC",
+  "status": "DEPLOYMENT_SUBMITTED_PENDING_PUBLIC_URL_VERIFICATION",
   "generated": "2026-07-18",
   "experiment_id": "PAC-51-R29F-META-R5H-V01",
   "groups": [
@@ -11,5 +11,8 @@
   "tracking": "visitor localStorage plus voluntarily submitted public GitHub Issues",
   "payments": "disabled",
   "real_customer_data": "prohibited",
+  "public_issue_channel": "verified by issue #1",
+  "deployment_workflow": ".github/workflows/pages.yml",
+  "expected_url": "https://zzzzggh.github.io/hehehe/",
   "decision_rule": "No V1/V2 until public sample or price intent is observed"
 }
