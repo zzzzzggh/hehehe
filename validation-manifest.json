@@ -1,0 +1,15 @@
+{
+  "status": "V0_LIVE_PENDING_TRAFFIC",
+  "generated": "2026-07-18",
+  "experiment_id": "PAC-51-R29F-META-R5H-V01",
+  "groups": [
+    "G1 建筑与本地服务运营表格",
+    "G2 行业报价计算器与Widget",
+    "G3 批量业务文档引擎",
+    "G4 出口产品数据与目录引擎"
+  ],
+  "tracking": "visitor localStorage plus voluntarily submitted public GitHub Issues",
+  "payments": "disabled",
+  "real_customer_data": "prohibited",
+  "decision_rule": "No V1/V2 until public sample or price intent is observed"
+}
