@@ -98,7 +98,17 @@ Candidate-specific depth remains prohibited until at least six orthogonal mechan
 - China execution fit
 - capital and attention reversibility
 
-## 8. Only legal next stage
+## 8. R0 completion conditions
+
+R0 is complete only when:
+- all public product pages are non-interactive archive notices;
+- normal repository pushes cannot automatically redeploy an active validation site;
+- the public validation issue is closed;
+- no follow-up or Wave 2 outreach is authorized;
+- all candidate-specific licenses are zero;
+- the next search stage is mechanism-level only.
+
+## 9. Only legal next stage
 
 `PAC-51-R29F-META-R5H-GLOBAL-MECHANISM-FRONTIER-R1`
 
