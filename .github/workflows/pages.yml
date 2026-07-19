@@ -1,8 +1,6 @@
-name: Deploy GitHub Pages
+name: Deploy Frozen Audit Site
 
 on:
-  push:
-    branches: [master]
   workflow_dispatch:
 
 permissions:
@@ -27,10 +25,10 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
-      - name: Upload static site
+      - name: Upload frozen audit site
         uses: actions/upload-pages-artifact@v4
         with:
           path: .
-      - name: Deploy
+      - name: Deploy frozen audit site
         id: deployment
         uses: actions/deploy-pages@v4
