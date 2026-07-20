@@ -60,7 +60,7 @@ No follow-up, reminder, link correction, additional outreach or interpretation o
 The following are sunk infrastructure or process evidence only:
 - GitHub connection and write permissions
 - Static page templates
-- GitHub Pages workflow
+- Deleted GitHub Pages workflow and its failed historical runs
 - Privacy wording
 - Event-tracking structure
 - Pricing-page layouts
@@ -102,11 +102,13 @@ Candidate-specific depth remains prohibited until at least six orthogonal mechan
 
 R0 is complete only when:
 - all public product pages are non-interactive archive notices;
-- normal repository pushes cannot automatically redeploy an active validation site;
+- the GitHub Pages workflow is deleted and no repository deployment workflow remains;
 - the public validation issue is closed;
 - no follow-up or Wave 2 outreach is authorized;
 - all candidate-specific licenses are zero;
 - the next search stage is mechanism-level only.
+
+All six conditions are complete as of 2026-07-19.
 
 ## 9. Only legal next stage
 
