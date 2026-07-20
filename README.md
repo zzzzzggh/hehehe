@@ -9,7 +9,7 @@ This repository preserves the audit trail for `PAC-51-R29F-META-R5H-V01`.
 - Four validation groups and twelve product concepts were advanced before passing global top-tier sufficiency and the four-key execution license.
 - All price actions, sample requests, follow-ups and product-development permissions are revoked.
 - Public pages now show archival freeze notices only.
-- The GitHub Pages workflow is manual-only; normal pushes cannot restart validation.
+- The GitHub Pages workflow has been deleted; this repository has no authorized deployment workflow.
 
 ## Prohibited continuation
 
